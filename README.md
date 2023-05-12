@@ -11,14 +11,19 @@ Rotten Tomatoes: Rotten Tomatoes and the Tomatometer score are the world's most 
 IMDB: an online database containing information and statistics about movies, TV shows and video games as well as actors, directors and other film industry professionals
 
 The Numbers: The Numbers provides detailed movie financial analysis, including box office, DVD, and Blu-ray sales reports, and release schedules.
-<img width="416" alt="Screen Shot 2023-05-12 at 9 28 38 AM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/1d272ada-2e1f-49d4-9067-32365b299c46">
 
 Results:
 
 <img width="416" alt="Screen Shot 2023-05-12 at 9 28 38 AM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/1d272ada-2e1f-49d4-9067-32365b299c46">
 
 <img width="674" alt="Screen Shot 2023-05-11 at 12 18 42 PM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/d419630c-4f5f-474b-8184-9c1e86e49050">
+
+
 <img width="793" alt="Screen Shot 2023-05-11 at 12 18 36 PM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/820a3c31-cdd5-4752-807b-09655efdcc2b">
+
+
+<img width="416" alt="Screen Shot 2023-05-12 at 9 28 38 AM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/1d272ada-2e1f-49d4-9067-32365b299c46">
+
 
 
 
