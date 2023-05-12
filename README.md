@@ -1,5 +1,6 @@
 # Project-1
-The Task: 
+The Task: <img width="260" alt="Screen Shot 2023-05-12 at 9 26 38 AM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/dfbe76f5-448e-48bf-8a9c-eda332266344">
+
 Watching as the competition has grown with the emergence of streaming and pandemic downtime, Microsoft has been tasked with seeing if funding a new movie studio would be financially stimulating. In order to reach this conclusion, Microsft wants Data Scientists to analyze trends seen in other studios to determine what method would result in the greatest gross profit. In order to have a direction to proceed Microsoft would like to know what genres would be successful, what studios have earned to most income, as well as what runtime produces the best overall movies for Microsoft.
 
 Data:
