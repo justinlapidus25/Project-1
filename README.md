@@ -30,10 +30,14 @@ The first graph shows the top producing movie studios. The graph depicts the top
 
 <img width="674" alt="Screen Shot 2023-05-11 at 12 18 42 PM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/d419630c-4f5f-474b-8184-9c1e86e49050">
 
+ The Last graph looked at the runtime of successful and unsuccessful action movies compared to their runtime. 
 
 <img width="793" alt="Screen Shot 2023-05-11 at 12 18 36 PM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/820a3c31-cdd5-4752-807b-09655efdcc2b">
 
+Conclusion:
 
+The data has resulted in the following conclusion; ceate a movie similar to those created by Warner Brothers, Buena Vista International,  or Paramount Pictures.
+The movie will earn the most if it is an action film with a run time of around 118-141 minutes.
 
 
 
