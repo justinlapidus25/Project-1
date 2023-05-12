@@ -14,7 +14,19 @@ The Numbers: The Numbers provides detailed movie financial analysis, including b
 
 Results:
 
+The first graph shows the top producing movie studios. The graph depicts the top earning studios and as a result we were able to extract the top five selling studios.
+
+ <img width="424" alt="Screen Shot 2023-05-12 at 9 28 50 AM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/db90596b-9105-43cb-8df1-4a0ef63056df">
+ 
+ The second graph shows the ditricution of genres produced by the top producing movie studios. This data is skewed with understanding that Sum and P/DW success in the action genere is skewed by the inclusion of animated action movies, as well as the twilight series. 
+ 
+<img width="633" alt="Screen Shot 2023-05-11 at 10 31 21 AM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/dc629d62-5c04-4aeb-ab0b-3a6853f338bd">
+
+ The third graph took the mean gross profit of action movies and compared them to runtime. In order to do this we first assgined the term succesful as movies that earned more than the mean gross profit, while unsucccesful are movies that earned less than the mean.  
+
 <img width="416" alt="Screen Shot 2023-05-12 at 9 28 38 AM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/1d272ada-2e1f-49d4-9067-32365b299c46">
+
+ The fourth graph took the mean gross profit of action movies and compared them to runtime. In order to do this we first assgined the term succesful as movies that earned more than the mean gross profit, while unsucccesful are movies that earned less than the mean.  
 
 <img width="674" alt="Screen Shot 2023-05-11 at 12 18 42 PM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/d419630c-4f5f-474b-8184-9c1e86e49050">
 
@@ -22,14 +34,7 @@ Results:
 <img width="793" alt="Screen Shot 2023-05-11 at 12 18 36 PM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/820a3c31-cdd5-4752-807b-09655efdcc2b">
 
 
-<img width="416" alt="Screen Shot 2023-05-12 at 9 28 38 AM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/1d272ada-2e1f-49d4-9067-32365b299c46">
 
 
-
-
-
- <img width="424" alt="Screen Shot 2023-05-12 at 9 28 50 AM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/db90596b-9105-43cb-8df1-4a0ef63056df">
- 
- <img width="444" alt="Screen Shot 2023-05-12 at 9 29 25 AM" src="https://github.com/justinlapidus25/Project-1/assets/130884190/43f825b7-b59d-468a-b7e5-94f3b46fe0ee">
 
 
